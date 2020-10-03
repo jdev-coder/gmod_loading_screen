@@ -1,2 +1,1 @@
-# gmod_loading_screen
-A loading screen for Garry's Mod
+https://demo.gmod-lsm.com/?u=5f447bc795f37
